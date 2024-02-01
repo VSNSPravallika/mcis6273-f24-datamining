@@ -10,6 +10,8 @@ use the most powerful hardware, the most powerful programming systems, and
 the most efficient algorithms to solve problems in science, commerce, healthcare,
 government, the humanities, and many other fields of human endeavor.  
 
+Data mining is the process of searching and analyzing a large batch of raw data in order to identify patterns and extract useful information.  
+
 ---
 
 **GitHub Repository Link:** <https://github.com/VSNSPravallika/mcis6273-f24-datamining.git>  
