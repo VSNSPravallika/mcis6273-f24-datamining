@@ -2,7 +2,7 @@
 
 **Zotero username:** Pravallika_Merapala  
 
-**What is Data Mining?**  
+#### What is Data Mining?  
 In the 1990’s “data mining” was an exciting and popular new concept. Around
 2010, people instead started to speak of “big data.” Today, the popular term is
 “data science.” However, during all this time, the concept remained the same:
@@ -12,4 +12,5 @@ government, the humanities, and many other fields of human endeavor.
 
 ---
 
-**GitHub Repository Link:** 
+**GitHub Repository Link:** <https://github.com/VSNSPravallika/mcis6273-f24-datamining.git>  
+
