@@ -3,6 +3,7 @@
 **Zotero username:** Pravallika_Merapala  
 
 #### What is Data Mining?  
+
 In the 1990’s “data mining” was an exciting and popular new concept. Around
 2010, people instead started to speak of “big data.” Today, the popular term is
 “data science.” However, during all this time, the concept remained the same:
